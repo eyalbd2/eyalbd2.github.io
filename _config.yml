@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Eyal Ben-David"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Eyal Ben-David"
 description              : &description "PhD candidate at the Technion - Isreal Institute of Technology"
 url                      : https://eyalbd2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
