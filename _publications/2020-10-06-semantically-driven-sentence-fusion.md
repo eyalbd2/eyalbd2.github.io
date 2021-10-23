@@ -2,7 +2,7 @@
 title: "Semantically Driven Sentence Fusion: Modeling and Evaluation"
 collection: publications
 permalink: /publication/2020-11-16-semantically-driven-sentence-fusion
-venue: 'Findings of ACL: EMNLP 2020'
+venue: 'Findings of ACL: EMNLP'
 date: 2020-11-07
 citation: '<b>Eyal Ben-David</b>, Orgad Keller, Eric Malmi, Idan Szpektor,and Roi Reichart. "Semantically Driven Sentence Fusion: Modeling and Evaluation" <i>Findings of the Association for Computational Linguistics: EMNLP</i>. 2020.'
 pdfurl: "https://aclanthology.org/2020.findings-emnlp.135.pdf"
